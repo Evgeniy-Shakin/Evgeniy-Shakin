@@ -24,8 +24,7 @@ Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>&nbsp
+height="40"/>&nbsp
   <img src="https://camo.githubusercontent.com/b6179e57bdea2f3eeb1f703ac2e36a2eac803040600c0d34f3f052f5a17653c4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65392f4e6f74696f6e2d6c6f676f2e737667" title="notion" alt="notion" width="40" height="40"/>&nbsp
 </div>
 
