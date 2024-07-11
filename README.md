@@ -23,5 +23,3 @@ Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 ---
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=evgenii25&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
