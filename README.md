@@ -5,12 +5,14 @@ Telegram - https://t.me/evgeniyshakin
 ---
 
 ### Stack
+* Java
+* Spring Boot
 * Python
 * Django
 * Aiogram
-* SQLite
+* TensorFlow
+* SQL
 
-* Java Core
 
 ### Tools
 * Git
